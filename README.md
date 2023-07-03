@@ -16,9 +16,6 @@
     <a href="https://leetcode.com/vk21022">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
-<a href="https://leetcode.com/vk21022">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
 </p>
 
 ### Languages
