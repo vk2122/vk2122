@@ -17,10 +17,10 @@
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
     <a href="https://www.hackerrank.com/varunkhachane31">
-    <img src="https://img.shields.io/badge/HackerRank-green?style=flat-square&logo=HackerRank" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=HackerRank" alt="HackerRank">
 </a>
 <a href="https://www.codechef.com/users/vk21022">
-    <img src="https://img.shields.io/badge/CodeChef-red?style=flat-square&logo=CodeChef" alt="CodeChef">
+    <img src="https://img.shields.io/badge/CodeChef-blue?style=flat-square&logo=CodeChef" alt="CodeChef">
 </a>
 </p>
 
