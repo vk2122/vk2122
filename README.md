@@ -16,7 +16,7 @@
     <a href="https://leetcode.com/vk21022">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
-    <a href="https://www.hackerrank.com/varunkhachane31">
+    <a href="https://www.hackerrank.com/vk21022">
     <img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=HackerRank" alt="HackerRank">
 </a>
 <a href="https://www.codechef.com/users/vk21022">
