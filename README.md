@@ -10,6 +10,18 @@
     <a href="https://www.linkedin.com/in/varunkhachane">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <a href="https://discord.com/Varun#5350">
+  <img src="https://img.shields.io/badge/Discord-blue?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="https://www.instagram.com/vk21022">
+  <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="mailto:varunkhachane31@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
     <a href="https://www.kaggle.com/vk2122">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
