@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/varunkhachane">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://discord.com/Varun#5350">
+    <a href="https://discord.com/vk2122">
   <img src="https://img.shields.io/badge/Discord-blue?style=flat-square&logo=discord&logoColor=white" alt="Discord">
 </a>
 
@@ -21,7 +21,6 @@
 <a href="mailto:varunkhachane31@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-
     <a href="https://www.kaggle.com/vk2122">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
@@ -37,13 +36,16 @@
 </p>
 
 ### Languages
+
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/vk2122)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/vk2122)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/vk2122)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/vk2122)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/vk2122)
 [![DART](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://github.com/vk2122)
+
 ### ML/DL
+
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/vk2122)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/vk2122)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/vk2122)
@@ -52,7 +54,9 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/vk2122)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/vk2122)
 [![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/vk2122)
+
 ### Technologies & Frameworks
+
 [![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://github.com/vk2122)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=android-studio)](https://github.com/vk2122)
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)](https://github.com/vk2122)
@@ -63,6 +67,7 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/vk2122)
 
 ### OS
+
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/vk2122)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/vk2122)
 
@@ -95,24 +100,28 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+  -->
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=vk2122&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vk2122&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vk2122&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=vk2122&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=vk2122&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=vk2122&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
