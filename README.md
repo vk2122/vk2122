@@ -64,8 +64,8 @@
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/vk2122)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/vk2122)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/vk2122)
-[![ReactJS](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react)](https://github.com/vk2122)
-[![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js)](https://github.com/your-username)
+[![ReactJS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/vk2122)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/your-username)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/vk2122)
 
 ### OS
