@@ -1,7 +1,6 @@
 <h1 align="center">Hi there!..🙋‍♂️</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
     <i>
         I'm Varun Khachane.<br>
         Currently learning to walk in ML/DL without falling on my bottom.<br>
