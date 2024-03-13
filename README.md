@@ -73,20 +73,6 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/vk2122)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/vk2122)
 
-<details>
-<p align="center">
-  <a href="https://github.com/vk2122">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vk2122&theme=transparent" />
-  </a>
-  <a href="https://github.com/vk2122">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk2122&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/vk2122">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vk2122&theme=transparent" />
-  </a>
-</p>
-</details>
-
 <p align="center">
   <a href="https://github.com/vk2122">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vk2122&theme=transparent" />
