@@ -95,16 +95,12 @@
 - ⚡ Fun fact: ...
   -->
 
-## 📊 GitHub Stats:
+### 📊 GITHUB STATS:
 
 ![](https://github-readme-stats.vercel.app/api?username=vk2122&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vk2122&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vk2122&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GITHUB TROPHIES
 
 ![](https://github-profile-trophy.vercel.app/?username=vk2122&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
