@@ -73,7 +73,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/vk2122)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/vk2122)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/vk2122">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vk2122&theme=transparent" />
   </a>
@@ -85,8 +85,6 @@
   </a>
 </p>
 
-<!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -97,7 +95,7 @@
 - ⚡ Fun fact: ...
   -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=vk2122&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vk2122&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
