@@ -82,5 +82,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vk2122&theme=darkhub&no-frame=true&column=6" />
 </p>
-
----
