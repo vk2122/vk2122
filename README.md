@@ -19,17 +19,8 @@
   <a href="mailto:varunkhachane31@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.kaggle.com/vk2122">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
-  </a>
   <a href="https://leetcode.com/vk21022">
     <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-  </a>
-  <a href="https://www.hackerrank.com/vk21022">
-    <img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=HackerRank" alt="HackerRank">
-  </a>
-  <a href="https://www.codechef.com/users/vk21022">
-    <img src="https://img.shields.io/badge/CodeChef-blue?style=flat-square&logo=CodeChef" alt="CodeChef">
   </a>
 </p>
 
