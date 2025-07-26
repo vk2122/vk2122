@@ -73,7 +73,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vk2122&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="45%" />
     <img src="https://streak-stats.demolab.com?user=vk2122&theme=tokyonight&hide_border=true" width="45%" />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vk2122&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
