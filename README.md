@@ -81,5 +81,5 @@
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=vk2122&theme=darkhub&no-frame=true&column=6" />
-    <img src="https://github-contributions-api.deno.dev/vk2122.svg" />
+    <img src="https://github-contributions.vercel.app/api?username=vk2122&limit=365&color=00ff99&size=small&theme=github-dark" />
 </p>
