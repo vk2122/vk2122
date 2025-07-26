@@ -80,13 +80,6 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vk2122&theme=darkhub&no-frame=true&column=6" />
-</p>
-
----
-
-### 🌱 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vk2122&theme=tokyo-night&area=true&hide_border=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vk2122&theme=darkhub&no-frame=true&column=6" />
+    <img src="https://github-contributions-api.deno.dev/vk2122.svg" />
 </p>
