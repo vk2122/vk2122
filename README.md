@@ -84,9 +84,3 @@
 </p>
 
 ---
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/varunkhachane)
-- 💻 [LeetCode](https://leetcode.com/vk21022)
-- 💬 [Email](mailto:varunkhachane31@gmail.com)
